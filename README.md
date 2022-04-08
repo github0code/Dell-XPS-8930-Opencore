@@ -1,2 +1,2 @@
 # Dell-XPS-8930-Opencore
-Dell XPS 8930 黑苹果
+OpenCore for macOS Monterey (12.3.1) on Dell OptiPlex 7080 MFF
