@@ -18,7 +18,7 @@ OpenCore for macOS Monterey (12.3.1) on Dell XPS 8930
 
 &ensp;&ensp;无线网卡/蓝牙：博通 BCM94360Z4
 
-&ensp;&ensp;固态硬盘:  WD SN730 M.2 256G
+&ensp;&ensp;固态硬盘:  WD SN850 M.2 500G
 
 # 正常工作：
 
@@ -26,7 +26,7 @@ OpenCore for macOS Monterey (12.3.1) on Dell XPS 8930
 
 2. 睡眠
 
-3. 显卡，支持4K/60Hz, HiDPI
+3. 显卡，支持5K/60Hz, HiDPI
 
 4. 有线网卡
 
@@ -34,8 +34,6 @@ OpenCore for macOS Monterey (12.3.1) on Dell XPS 8930
 
 6. 声卡
 
-7. DP音频输出，双屏4K输出
+7. USB, 已定制
 
-8. USB, 已定制
-
-9. 重启关机正常
+8. 重启关机正常
