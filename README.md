@@ -12,7 +12,7 @@ OpenCore for macOS Monterey (12.3.1) on Dell XPS 8930
 
 &ensp;&ensp;独立显卡：蓝宝石 AMD Radeon RX 6600 XT 超白金
 
-&ensp;&ensp;声卡：ALC298
+&ensp;&ensp;声卡：ALC899
 
 &ensp;&ensp;网卡：Killer E2400
 
