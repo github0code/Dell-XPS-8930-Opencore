@@ -12,13 +12,13 @@ OpenCore for macOS Monterey (12.3.1) on Dell XPS 8930
 
 &ensp;&ensp;独立显卡：蓝宝石 AMD Radeon RX 6600 XT 超白金
 
-&ensp;&ensp;声卡：ALC899
+&ensp;&ensp;声卡：Realtek ALC898
 
-&ensp;&ensp;网卡：Killer E2400
+&ensp;&ensp;网卡：Killer E2400 Gigabit Ethernet
 
 &ensp;&ensp;无线网卡/蓝牙：博通 BCM94360Z4
 
-&ensp;&ensp;固态硬盘:  WD SN850 M.2 500G
+&ensp;&ensp;固态硬盘:  西数 WD SN850 NVMe 500G
 
 # 正常工作：
 
