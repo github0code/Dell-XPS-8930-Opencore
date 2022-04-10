@@ -18,7 +18,7 @@ OpenCore for macOS Monterey (12.3.1) on Dell XPS 8930
 
 &ensp;&ensp;无线网卡/蓝牙：博通 BCM94360Z4
 
-&ensp;&ensp;SSD:  西数 WD SN850 NVMe 500G
+&ensp;&ensp;硬盘: WD SN850 NVMe 500G
 
 # 正常工作：
 
