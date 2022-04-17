@@ -39,8 +39,7 @@ OpenCore for macOS Monterey (12.3.1) on Dell XPS 8930
 8. 重启关机正常
 
 # 效果图：
-<img width="704" alt="截屏2022-04-17 14 50 46" src="https://user-images.githubusercontent.com/103224673/163704143-eb62d1a1-8daf-4c4d-a43f-d59f4d6d086d.png">  
-<img width="698" alt="截屏2022-04-17 14 28-2" src="https://user-images.githubusercontent.com/103224673/163704114-4f1d416a-61f8-427a-b3b5-de746e3c0edf.png">  
+<img width="704" alt="截屏2022-04-17 14 50 46" src="https://user-images.githubusercontent.com/103224673/163704143-eb62d1a1-8daf-4c4d-a43f-d59f4d6d086d.png"><img width="698" alt="截屏2022-04-17 14 28-2" src="https://user-images.githubusercontent.com/103224673/163704114-4f1d416a-61f8-427a-b3b5-de746e3c0edf.png">  
 <img width="698" alt="截屏2022-04-17 14 27 49" src="https://user-images.githubusercontent.com/103224673/163704120-b48bc94a-da0c-43ce-bd34-7b29ae42569c.png">  
 <img width="780" alt="截屏2022-04-17 14 43 20" src="https://user-images.githubusercontent.com/103224673/163704125-8d2d00fe-7276-48d5-a9a2-63cad6c27a97.png">  
 <img width="1015" alt="截屏2022-04-17 14 29 19" src="https://user-images.githubusercontent.com/103224673/163704138-c06674ec-59a6-489a-9264-6926c5c7bd99.png">  
