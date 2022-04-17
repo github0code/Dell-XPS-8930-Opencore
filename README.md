@@ -37,7 +37,10 @@ OpenCore for macOS Monterey (12.3.1) on Dell XPS 8930
 7. USB, 已定制
 
 8. 重启关机正常
-9. 
+
+# 效果图
+<img width="704" alt="截屏2022-04-17 14 50 46" src="https://user-images.githubusercontent.com/103224673/163704143-eb62d1a1-8daf-4c4d-a43f-d59f4d6d086d.png">
+
 <img width="698" alt="截屏2022-04-17 14 28-2" src="https://user-images.githubusercontent.com/103224673/163704114-4f1d416a-61f8-427a-b3b5-de746e3c0edf.png">
 
 <img width="698" alt="截屏2022-04-17 14 27 49" src="https://user-images.githubusercontent.com/103224673/163704120-b48bc94a-da0c-43ce-bd34-7b29ae42569c.png">
@@ -47,7 +50,5 @@ OpenCore for macOS Monterey (12.3.1) on Dell XPS 8930
 <img width="1015" alt="截屏2022-04-17 14 29 19" src="https://user-images.githubusercontent.com/103224673/163704138-c06674ec-59a6-489a-9264-6926c5c7bd99.png">
 
 <img width="1015" alt="截屏2022-04-17 14 29 44" src="https://user-images.githubusercontent.com/103224673/163704139-bc7539a2-11e7-443a-926b-adbe18a4023f.png">
-
-<img width="704" alt="截屏2022-04-17 14 50 46" src="https://user-images.githubusercontent.com/103224673/163704143-eb62d1a1-8daf-4c4d-a43f-d59f4d6d086d.png">
 
 
