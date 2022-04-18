@@ -43,7 +43,6 @@ OpenCore for macOS Monterey (12.3.1) on Dell XPS 8930
 <img width="698" alt="截屏2022-04-17 14 28-2" src="https://user-images.githubusercontent.com/103224673/163704114-4f1d416a-61f8-427a-b3b5-de746e3c0edf.png">  
 <img width="698" alt="截屏2022-04-17 14 27 49" src="https://user-images.githubusercontent.com/103224673/163704120-b48bc94a-da0c-43ce-bd34-7b29ae42569c.png">  
 <img width="780" alt="截屏2022-04-17 14 43 20" src="https://user-images.githubusercontent.com/103224673/163704125-8d2d00fe-7276-48d5-a9a2-63cad6c27a97.png">  
-<img width="1015" alt="截屏2022-04-17 14 29 19" src="https://user-images.githubusercontent.com/103224673/163704138-c06674ec-59a6-489a-9264-6926c5c7bd99.png">  
-<img width="1015" alt="截屏2022-04-17 14 29 44" src="https://user-images.githubusercontent.com/103224673/163704139-bc7539a2-11e7-443a-926b-adbe18a4023f.png">
-
-
+<img width="780" alt="截屏2022-04-18 21 33 57" src="https://user-images.githubusercontent.com/103224673/163816270-7892e3e8-78fe-47a1-9f65-b6e441d76c91.png">
+<img width="972" alt="截屏2022-04-18 21 35 58" src="https://user-images.githubusercontent.com/103224673/163816328-ea2e19cf-ed18-4ece-b336-8fd559ffdff1.png">
+<img width="972" alt="截屏2022-04-18 21 35 51" src="https://user-images.githubusercontent.com/103224673/163816366-7ef399d8-cc68-497a-b4e6-168e71acc7bf.png">
